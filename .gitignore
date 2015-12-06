@@ -3,6 +3,9 @@
 # Idea's Settings
 .idea/
 
+# Built files
+target/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
