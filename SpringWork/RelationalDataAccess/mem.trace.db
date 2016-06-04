@@ -1,0 +1,9 @@
+12-03 18:39:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CUSTOMERS" already exists; SQL statement:
+create table customers(id serial, first_name varchar(255), last_name varchar(255)) [42101-176]
+12-03 18:40:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CUSTOMERS" already exists; SQL statement:
+create table customers(id serial, first_name varchar(255), last_name varchar(255)) [42101-176]
+12-03 18:41:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "CUSTOMERS" already exists; SQL statement:
+create table customers(id serial, first_name varchar(255), last_name varchar(255)) [42101-176]
